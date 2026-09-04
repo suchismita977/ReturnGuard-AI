@@ -70,3 +70,25 @@ Risk Score     Abuse Type
            │
            ▼
     Result Dashboard
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Frontend** | React, Vite, JavaScript, CSS |
+| **Backend** | Python, FastAPI, Pydantic |
+| **Machine Learning** | Scikit-learn |
+| **Data Processing** | Pandas, NumPy |
+| **Model Storage** | Pickle (`.pkl`) |
+| **Data Format** | CSV |
+| **Analysis** | Jupyter Notebook |
+| **Communication** | REST API, JSON over HTTP |
+| **Version Control** | Git, GitHub |
+
+---
+
+Intelligent E-commerce Return Risk & Abuse Detection
+
+An AI-assisted system for identifying potentially risky e-commerce returns and supporting merchant decision-making.
