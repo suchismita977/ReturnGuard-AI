@@ -73,6 +73,14 @@ Risk Score     Abuse Type
 
 ---
 
+## 🏗️ System Architecture
+
+<img width="1312" height="1199" alt="easy understand2026, 09_35_17 PM" src="https://github.com/user-attachments/assets/b6b8a2a5-4267-4cdb-984c-fe7d8b5e70fd" />
+
+The system follows a modular flow from return investigation to AI-assisted merchant decision-making.
+
+---
+
 ## 🛠️ Tech Stack
 
 | Category | Technologies |
